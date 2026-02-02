@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Just a page for the things I am learning.
+HTML
+CSS
+JAVA SCRIPT
+WEB DEVELOPMENT
 <!--
 **shitallama/shitallama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
